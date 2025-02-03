@@ -37,7 +37,7 @@ const CONFIG = {
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ["blog", "woolee"],
-  }
+  },
 
   // notion configuration (required)
   notionConfig: {
